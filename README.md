@@ -16,6 +16,8 @@ The bibtex code of our paper is as follows:
 }
 ```
 
+Note: The first author of this paper, Joonhyeok Jang, changed the name to Sehui Jang. (February 21th, 2025)
+
 # Requirements
 We used:
 - python==3.8.5
